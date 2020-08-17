@@ -18,4 +18,4 @@ Elaborar e incluir aquí diagramas de clase para esta implementación, con dos v
 
 En ambos casos, incluir solamente los métodos y atributos que consideren importantes para que alguien que no conoce el dominio ni el código pueda entender el diseño. En la sección [software](https://obj2-unahur.github.io/software) del sitio de la materia tienen algunas herramientas que pueden resultar útiles para elaborar los diagramas.
 
-(https://drive.google.com/file/d/16tbEo3fktBOM-yC6pP9DjqYOZenzF5g6/view?usp=sharing)
+https://drive.google.com/file/d/16tbEo3fktBOM-yC6pP9DjqYOZenzF5g6/view?usp=sharing
